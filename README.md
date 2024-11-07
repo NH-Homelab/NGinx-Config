@@ -1,0 +1,2 @@
+# Homelab Nginx Configuration
+Basic configuration of a reverse proxy for the homelab. Controls access to web services and authorizes users. Implements SSL so that various services behind the proxy don't need to.
